@@ -5,16 +5,9 @@ This repository contains preprocessed solar energy and weather-related datasets.
 
 ## ⏳ Time series
 
-### ☀️ Solar power
 ![Power](graph/timeseries_P.png)
-
-### 🌞 Irradiance
 ![Irradiance](graph/timeseries_I.png)
-
-### 🌡️ Temperature
 ![Temperature](graph/timeseries_T.png)
-
-### ☁️ Cloud index
 ![Cloudindex](graph/timeseries_CI.png)
 
 ## 🔄 Data Processing Steps
