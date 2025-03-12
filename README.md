@@ -51,8 +51,6 @@ This folder contains the **final datasets**, created by merging and concatenatin
 2. **Concatenation** → Unified different time intervals into a single structured dataset.  
 3. **Final Formatting** → Ensured consistent column names, time alignment, and missing value handling.
 
-### Folder Contents:  
-
 
 ## ✅ Conclusion  
 This dataset has been carefully cleaned and processed to ensure accuracy and reliability. It is now ready for further analysis, modeling, and forecasting applications.
