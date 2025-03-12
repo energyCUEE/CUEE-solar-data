@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This repository contains preprocessed solar energy and weather-related datasets. The raw data is collected from various sources, solar meters, weather forecasting models, and satellite images. Below is a detailed explanation of both raw and processed data, including all column names.  
 
-[📄 View Plot (PDF)](https://github.com/energyCUEE/CUEE-solar-data/master/graph/timeseries_CI.pdf)
+![Plot Preview](https://raw.githubusercontent.com/energyCUEE/CUEE-solar-data/master/graph/timeseries_P.png)
 
 ## 🔄 Data Processing Steps
 
