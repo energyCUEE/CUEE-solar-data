@@ -41,7 +41,7 @@ This folder contains cleaned and structured datasets with different time resolut
 
 Each file inside this folder represents a cleaned and structured version of the raw data, with resampled time intervals
 
-## 📂 Processed Data  
+## 📂 Merged Processed Data  
 
 This folder contains the **final datasets**, created by merging and concatenating all **preprocessed data** from **2023-2024**. These datasets are structured and ready for analysis or modeling.  
 
